@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Hyoseok Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""There comes magma from deep sea.""
+  bio              : "\"There comes magma from deep sea.\""
   location         : "Seoul, Korea"
   email            : "dddpower@gmail.com, dddpower@yonsei.ac.kr"
   links:
