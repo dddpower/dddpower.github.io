@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "hs's Develop Blog"
+title                    : "things othogonal, still integrated"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyoseok Jang"
@@ -96,7 +96,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "There comes a magma from deep sea, or it may be a humpback whale."
   location         : "Seoul, Korea"
-  email            : "dddpower@gmail.com, dddpower@yonsei.ac.kr"
+  email            : "dddpower@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
